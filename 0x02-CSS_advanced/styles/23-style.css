@@ -238,7 +238,7 @@ ul.row {
 }
 
 .social-link,
-.social-link > svg {
+.social-link:first-child {
   color: var(--text-color);
 }
 
