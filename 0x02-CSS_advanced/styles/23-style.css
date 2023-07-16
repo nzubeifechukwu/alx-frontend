@@ -237,7 +237,6 @@ ul.row {
   display: block;
 }
 
-.social-link,
 .social-link:first-child {
   color: var(--text-color);
 }
